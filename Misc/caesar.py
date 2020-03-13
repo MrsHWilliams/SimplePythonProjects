@@ -46,4 +46,22 @@ while 1:
         print("Wrong choice, program exiting...")
         break
 
-    
+"""Output:
+roy@roy:~/Desktop/work$ python3 caesar.py
+Press 1 for encrypting a message
+Press 2 for decrypting a message 
+Your choice: 1
+Enter a message to encrypt: suleman
+Enter the key: 5
+Here's the encrpyed message:  xzqjrfs
+Press 1 for encrypting a message
+Press 2 for decrypting a message 
+Your choice: 2
+Enter a message to decrypt: xzqjrfs
+Enter the key you used: 5
+Here's the decrypted message:  suleman
+Press 1 for encrypting a message
+Press 2 for decrypting a message 
+Your choice: 
+
+"""
