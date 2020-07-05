@@ -19,10 +19,10 @@ language = ['en','hi']
 
 # You need to replace these with your own values that you get after creating an app on Twitter's developer portal.
 
-consumer_key= 'ZKavl1xxxxxxxxxxdcgzbGfb2'
-consumer_secret= 'Cg7pskxxxxxxxxxxxxxcdS5vUA'
-access_token= '62252281-xxxxxxxxxxxxxxU5qNzTHeWhY9SOh2'
-access_token_secret= 'M6mlAcrxxxxxxxxxxxxxxjwE7023GoSw'
+consumer_key= 'ZKavl1xdcgzbGfb2'
+consumer_secret= 'Cg7psk5vUA'
+access_token= '62252281U5qNzTHeWhY9SOh2'
+access_token_secret= 'M6mlAcrjwE7023GoSw'
 
 # The below code will get Tweets from the stream and store only the important fields to your database
 class StdOutListener(StreamListener):
